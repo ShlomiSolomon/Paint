@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>PaintBGDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAEAAAAAAAAAgBAAAAAAAAAAwAEAACAgQgAMAEAAAI=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRectangle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEllipse" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTriangle" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLine" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UndoRedo" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGAAAABACAAAEAABABAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>UndoRedo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaintBGApp" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAAAA=</HashCode>
+      <FileName>PaintBG.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaintBGDlg" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACBAIEAgQEgADA+ABAgIQBAYBgAgAyQgFCACAARASA=</HashCode>
+      <FileName>PaintBGDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
